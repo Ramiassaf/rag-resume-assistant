@@ -1,11 +1,11 @@
-# 🧠 RAG Resume Assistant
+#  RAG Resume Assistant
 
 A Retrieval-Augmented Generation (RAG)–powered assistant that helps HR teams or recruiters quickly screen resumes based on skills and experience.  
 This project uses **Phi-2**, a lightweight LLM from Microsoft, integrated with **LangChain** and **ChromaDB** for retrieval.
 
 ---
 
-## 🚀 Features
+##  Features
 -  Upload and parse resumes (PDF or text)
 -  Retrieve the top-matching candidates for specific skills or roles
 -  Query the assistant interactively through a **Gradio** UI
@@ -36,9 +36,10 @@ This project uses **Phi-2**, a lightweight LLM from Microsoft, integrated with *
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 ```bash
 git clone https://github.com/assaframi/rag-resume-assistant.git
 cd rag-resume-assistant
+
